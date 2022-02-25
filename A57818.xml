@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Protestant dissenters of late prosecuted, on old statutes made against papists and popish recusants; the two thirds of whose estates are seized into the Kings hands, and the profits thereof levyed yearly. And many other [sic] prosecuted for 20 l. a month, to the ruine of many families.</title>
+            <author>Rudyard, Thomas, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57818</idno>
+            <idno type="STC">Wing R2178</idno>
+            <idno type="STC">ESTC R218481</idno>
+            <idno type="EEBO-CITATION">99830068</idno>
+            <idno type="PROQUEST">99830068</idno>
+            <idno type="VID">34517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34517)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2017:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Protestant dissenters of late prosecuted, on old statutes made against papists and popish recusants; the two thirds of whose estates are seized into the Kings hands, and the profits thereof levyed yearly. And many other [sic] prosecuted for 20 l. a month, to the ruine of many families.</title>
+                  <author>Rudyard, Thomas, d. 1692.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Ben. Clark in George-Yard Lumbard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Rudyard.</note>
+                  <note>Collation: B⁴.</note>
+                  <note>Caption title on pg. 1: The case of Protestant dissenters, &amp;c.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34517:1" rendition="simple:additions"/>
+            <p>THE CASE OF <hi>Proteſtant Diſſenters,</hi> OF LATE PROSECUTED, On old Statutes made againſt PAPISTS and POPISH RECUSANTS;</p>
+            <p>The two thirds of whoſe Eſtates are Sei<g ref="char:EOLhyphen"/>zed into the KINGS Hands, and the Profits thereof Levyed Yearly.</p>
+            <p>And many other Proſecuted for 20 <hi>l.</hi> a Month, to the Ruine of many Families.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ben. Clark</hi> in <hi>George-Yard Lumbard-ſtreet,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34517:2"/>
+            <pb n="1" facs="tcp:34517:2"/>
+            <head>THE CASE OF <hi>Proteſtant Diſſenters,</hi> &amp;c.</head>
+            <p>IT'S not unknown, That amongſt other Sufferings of <hi>Proteſtant Diſſen<g ref="char:EOLhyphen"/>ters,</hi> this late Proſecution on old Statutes made and deſigned againſt Papiſts and Popiſh Recuſants hath not been the <hi>Leaſt,</hi> and that which makes it appear the more ſtrange, is <hi>That from the making of the ſaid Statutes in the time of Q.</hi> Eliz. <hi>until within the ſpace of</hi> 4 <hi>or</hi> 5 <hi>Years laſt paſt: The like Proſecution of <hi>Proteſtant Diſſenters</hi> hath not been known.</hi> Beſides; which the very Statutes themſelves, upon which Proteſtant Diſſenters are thus Proſecuted, appear to be deſigned againſt <hi>Popery and Popiſh Recuſants only,</hi> however now extended, and the ſeverity thereof executed chiefly on <hi>Proteſtant Diſſenters.</hi>
+            </p>
+            <p>And that the ſaid Statutes, when made, were deſigned againſt <hi>Papiſts,</hi> and not againſt <hi>Proteſtants,</hi> will appear by examination of the Preambles and Purport of the ſame,</p>
+            <p>And obſerve The Statutes upon which Proteſtant Diſſenters are thus of late Proſecuted, convicted for 20 <hi>l</hi> a Month, and two thirds of their Eſtates ſei<g ref="char:EOLhyphen"/>zed into the King's Hands, are three <hi>(viz.) <hi>the</hi>
+               </hi> 23d. <hi>and</hi> 28th. <hi>of</hi> Eliz. <hi>and the</hi> 3d. <hi>of K.</hi> James.</p>
+            <p>
+               <hi>1ſt.</hi> As to the firſt of theſe <hi>(viz.)</hi> that of the <hi>23d.</hi> of <hi>Eliz.</hi> It is intituled, <hi>An Act to retain the Queens Majeſties Subjects in their due Obedience.</hi>
+            </p>
+            <p>And what ſubjects thoſe were, who in thoſe days were diſobedient, and ſtood in need of this Act, Hiſtory and Tradition can well inform; but beſides that, the Preamble of the Act will plainly evidence. Which runs thus,</p>
+            <p>
+               <q>Where ſithence the Statute made in the <hi>13th.</hi> Year of the Reign of the Queen our Sovereign Lady, Intituled, <hi>An Act againſt the bringing in and putting in execution of Bulls, Writings and Inſtruments, and other ſu<g ref="char:EOLhyphen"/>perſtitious Things from the See of Rome, divers evil-affected Perſons have practiſed, contrary to the meaning of the ſaid Statutes, by other means then by Bulls and</hi> Inſtruments, <hi>Written or Printed, to withdraw divers the Queens Majeſties Subjects from their natural Obedience to obey the ſaid uſur<g ref="char:EOLhyphen"/>ped Authority of Rome, and in reſpect of the ſame to perſwade great num<g ref="char:EOLhyphen"/>bers to withdraw their due Obedience from Her Majeſties Laws,</hi> &amp;c.</q>
+            </p>
+            <p>
+               <q>For reformation whereof, and to declare the true meaning of the ſaid Law,
+<pb n="2" facs="tcp:34517:3"/>
+                  <hi>Be it Declared and Enacted, by the Authority of this preſent Parliament, That all Perſons,</hi> &amp;c.</q>
+            </p>
+            <p>In this Preamble we may clearly underſtand a double or two-fold end, for which this Statute was made and provided <hi>(viz.)</hi> for <hi>Reformation and Infor<g ref="char:EOLhyphen"/>mation.</hi>
+               <list>
+                  <item>
+                     <hi>1st.</hi> For <hi>
+                        <hi>Reformation</hi> (viz.)</hi> of ſuch who withdrew the Queens Subjects from their natural <hi>Obedience</hi> to the uſurp'd Authority of <hi>Rome,</hi> as the pre<g ref="char:EOLhyphen"/>ceding Words are.</item>
+                  <item>
+                     <hi>2dly,</hi> For <hi>Information</hi> in theſe Words <hi>(viz.) To declare the true meaning of the ſaid Law (viz.)</hi> the Law of the <hi>13th.</hi> of the <hi>Queen,</hi> which the ſaid Statute recites, which ſaid Law was provided againſt <hi>bringing in and putting in execution of Bulls, Writings, Inſtruments and other ſuperſtitious Things from the See of</hi> Rome.</item>
+               </list>
+            </p>
+            <p>And if we read the ſaid Statute, it gives an account, That thoſe Bulls were brought from <hi>Rome</hi> to abſolve and reconcile ſuch who forſook their Obedience to the Queen, to yield and ſubject themſelves to the Popes uſurp'd Authority.</p>
+            <p>So the Deſign of the ſaid Statute was to prohibit ſuch Bulls on pain of High-Treaſon, and to prohibit the bringing into the Realm <hi>Tokens or Things called</hi> Agnus Dei, <hi>Croſſes, Pictures, Beads, and ſuch like vain and ſuperſtitious Things,</hi> which being conſecrated by the Pope, <hi>&amp;c.</hi> divers Immunities and Ex<g ref="char:EOLhyphen"/>emptions were ſaid to be granted. As that Statute words it.</p>
+            <p>So that this Statute of the <hi>23d.</hi> of <hi>Eliz.</hi> appears to be a <hi>Supplementary Act,</hi> and <hi>Explanatory,</hi> of the 13 of the ſaid Queen againſt the bringing in of <hi>Bulls, Agnus Dei, Croſſes,</hi> &amp;c. and therein alſo provides againſt <hi>Withdraw<g ref="char:EOLhyphen"/>ing any the Queens Subjects to the</hi> Romiſh <hi>Religion</hi> (which that Age conceived ſo dangerous.)</p>
+            <p>So that they firſt make it <hi>Treaſon</hi> to withdraw any from the <hi>Quéens Obe<g ref="char:EOLhyphen"/>dience</hi> or <hi>Religion</hi> (then eſtabliſhed) to the <hi>Romiſh Religion,</hi> or to obey the <hi>Authority</hi> of the See of <hi>Rome,</hi> or other Prince.</p>
+            <p>They <hi>2dly.</hi> make it Treaſon to be <hi>reconciled</hi> or drawn to the <hi>Romiſh Reli<g ref="char:EOLhyphen"/>gion.</hi>
+            </p>
+            <p>They <hi>3ly.</hi> make it <hi>Miſpriſion of Treaſon</hi> to be Aiders, Maintainers or Con<g ref="char:EOLhyphen"/>cealers of ſuch as <hi>perſwaded others</hi> to withdraw themſelves.</p>
+            <p>They <hi>4ly.</hi> provide the <hi>Penalty of</hi> 200 <hi>Marks, and a Years Impriſonment,</hi> for ſuch as ſhall Say or Sing <hi>Maſs,</hi> and then Enact generally;</p>
+            <p>
+               <hi>5ly.</hi> That all <hi>Perſons</hi> above the age of 16 <hi>Years,</hi> which ſhall not <hi>repair to Church once a Month,</hi> ſhall forfeit for every Month 20 <hi>l.</hi> Upon which is the preſent Pro<g ref="char:EOLhyphen"/>ſecution againſt Proteſtants.</p>
+            <p>Now it's very evident by the <hi>Statute of the</hi> 13th. <hi>of the Queen, and by this of the</hi> 23d. <hi>f the Quéen, That</hi>
+               <list>
+                  <item>
+                     <hi>1ſt.</hi> The ffences provided againſt by theſe Statutes were the bringing in of <hi>Bulls, Agnus Dei's, Croſſes, Pictures, Beads and ſuch like vain and ſu<g ref="char:EOLhyphen"/>perſtitious Things.</hi>
+                  </item>
+                  <item>
+                     <pb n="3" facs="tcp:34517:3"/>
+                     <hi>2ly.</hi> The Perſons offending were the <hi>Importers or Spreaders thereof; Per<g ref="char:EOLhyphen"/>ſons perſwading or withdrawing others, or themſelves to the Romiſh Religi<g ref="char:EOLhyphen"/>on, or See of</hi> Rome, <hi>and Sayers and Singers of Maſs. And to be Aiders or Maintainers of ſuch.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>So we conceive the Execution thereof was never intended, and hope (by ſuch Proviſion as the Parliament in Wiſdom ſhall ſee meet) will not be extend<g ref="char:EOLhyphen"/>ed to Proteſtant Diſſenters, as of late years it hath been, contrary to all for<g ref="char:EOLhyphen"/>mer Uſage and Practice.</p>
+            <p>And that theſe Words <hi>All Perſons,</hi> ſhall be ſuch only, whom the Statute in expreſs Words and Terms complains of, as only dangerous; and by ſuch Pains and Penalties thereby intended to be reform'd.</p>
+            <p>The <hi>2d.</hi> Statute on which ſuch Proſecutions againſt Proteſtants are grounded is, that of the <hi>28th.</hi> of the Queen; the Title beſpeaks it what it is <hi>
+                  <hi>(viz.)</hi> An Act for the ſpéedy Execution of certain Franches made in the</hi> 23d. <hi>Year of the Queen—which is the Act to retain the Quéens Majeſties Subjects in their due Obedience.</hi> The ſame which is before repeated. And provides <hi>againſt fraudu<g ref="char:EOLhyphen"/>lent Conveyances which might be made to defraud the Q. of her</hi> 20 l. <hi>per Menſem.</hi> And orders the Conviction to be <hi>return'd into the Exchequer,</hi> and proceſs to be made out thence to collect it, or <hi>for Non-payment, two</hi> 3ds. <hi>of their rea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Eſtate to be ſeized into the Quéens Hands,</hi> &amp;c.</p>
+            <p>So that until the <hi>3d.</hi> of King <hi>James</hi> (a time memorable to all Proteſtants, for the great Deliverance from the <hi>Gun-Powder-Plot</hi>) the former Laws con<g ref="char:EOLhyphen"/>tinued without alteration or ſupplement. And in the <hi>3d.</hi> of that King's Reign was made a Statute, Intituled, <hi>An Act for the better diſcovering and repreſ<g ref="char:EOLhyphen"/>ſing Popiſh Recuſants.</hi> Which is the third Statute on which are proſecuted Proteſtant Diſſenters, by the whole ſeries of which Statute it will appear, that <hi>Proteſtants were intended to be ſecured, but never intended to be proſecuted by it, as they are of late days.</hi>
+            </p>
+            <p>And I may repeat the preamble of the Statute, which will ſufficintly Evi<g ref="char:EOLhyphen"/>dence the <hi>Intent</hi> and <hi>Deſign</hi> thereof.</p>
+            <p>Which runs thus, <hi>(viz.)</hi>
+               <lb/>
+               <q>FOraſmuch as it is found by daily Experience, that many his Majeſties Subjects that adhere in their Hearts to the <hi>Popiſh Religion,</hi> by the infection drawn from thence, and by the Wicked and Deviliſh Coun<g ref="char:EOLhyphen"/>cel of <hi>Jeſuites,</hi> Seminaries and other like Perſons, dangerous to the Church and State; are ſo far perverted in point of their Loyalty, and due Allegiance unto the King's Majeſtie, and the Crown of
+<hi>England,</hi> as they are ready to entertain and execute any treaſonable Conſpiracies and Practices, as evident<g ref="char:EOLhyphen"/>ly appeareth by that more than Barbarous and Horrible attempt to have blown up with Gun-Powder the King, Queen, Prince, Lords and Commons, in
+<pb n="4" facs="tcp:34517:4"/>the Parliament Aſſembled; tending to the utter Subverſion of the whole State, lately taken by the inſtigation of<hi>Jeſuites</hi> and Seminaries, and in ad<g ref="char:EOLhyphen"/>vancement of their Religion, by their Scholars taught and inſtructed by them to that purpoſe: Which attempt by the only Goodneſs of Almighty God was diſcovered and defeated. And where divers Perſons Popiſhly-affected, do ne<g ref="char:EOLhyphen"/>vertheleſs (the better to cover and hide their falſe Hearts, and with more ſafety to attend the Opportunity to execute their miſchievous Deſigns) repair ſometimes to Church to eſcape the puniſhment of the Laws in that behalf pro<g ref="char:EOLhyphen"/>vided!</q>
+            </p>
+            <p>
+               <q>For the better diſcovery therefore of ſuch Perſons and their Evil-affections to the King's Majeſty and the State of this His Realm; to the end, that being known, their Evil-purpoſes may be the better prevented. Be it Enacted by, <hi>&amp;c.</hi> That every Popiſh-Recuſant convict, or hereafter to be convict<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>In which there is no mention made of other than Popiſh-Recuſants not one Word of <hi>Proteſtant Diſſenters,</hi> or Recuſants, or other Diſſenters or Recuſants then Popiſh only. Beſides, enquire into the Statute.</p>
+            <p>It provides, that Popiſh Recuſants conformed, or afterward to conform, <hi>ſhould once a Month take the Sacrament of the Lord's Supper in their Pariſh-Church, as in</hi> §. 2d. Inflicts the Penalties of 20 <hi>l. 1ſt.</hi> year, 40 <hi>l.</hi> the <hi>2d.</hi> and 60 <hi>l.</hi> the <hi>3d.</hi> year for ſuch Popiſh Recuſanss not receiving the <hi>Sacrament,</hi> as in §: <hi>3d.</hi>
+            </p>
+            <p>It Enacts that the Church-Wardens and Conſtables of every Town, <hi>&amp;c,</hi> for the time being; or if none, the chief Conſtable of the Hundred, <hi>&amp;c.</hi> ſhall pre<g ref="char:EOLhyphen"/>ſent the Names of all Popiſh Recuſants, and the Children of the ſaid Recuſants, of 16 years old, as in §. <hi>4th.</hi>
+            </p>
+            <p>
+               <hi>4ly.</hi> This Statute of the <hi>3d.</hi> of K <hi>James,</hi> recites the afore-ſaid Statute of 23. <hi>Eliz.</hi> by which the ſaid Recuſants <hi>(viz)</hi> Popiſh, forfeit the <hi>20 l. per Menſem,</hi> as in §. 10.</p>
+            <p>
+               <hi>5ly.</hi> And alſo recites the afore-ſaid Statute of 28 Eliz. <hi>directing how the Q. ſhould recover the</hi> 20 <hi>l.</hi> per menſem, <hi>by ſeizure of two 3ds. of the real</hi> Eſtate <hi>of ſuch convicted Recuſants.</hi> After which recital, it is therein alledg'd, that the 20 <hi>l. per menſem</hi> is a Burthen to the poor, and eaſe to the rich; who keep large Eſtates in their own hands which (as ſays the Statute) they do for the moſt part imploy [as Experience hath taught] <hi>In the maintainance of Superſtition and Popiſh Religion, and to the relief of Jeſuites, Seminaries, Prieſts and other dan<g ref="char:EOLhyphen"/>gerous Perſons to the State.</hi> And—</p>
+            <p>So it's clearly aparent by the delineation and explanation of <hi>Offender</hi> and <hi>Offences</hi> throughout this Statute.</p>
+            <p>As <hi>1ſt.</hi> Offenders <hi>(viz.) Jeſuites, Seminaries,</hi> and ſuch like perſons, dan<g ref="char:EOLhyphen"/>gerous to <hi>Church and State, Perſons Popiſhly-affected, adhering in their Hearts to the Popiſh Religion</hi>—To cover and hide their falſe Hearts, and the better,
+<pb n="5" facs="tcp:34517:4"/>and with more ſafety to attend their miſchievous Deſigns, repair ſometimes to Church, <hi>&amp;c.</hi> Perſons ready to execute any Treaſonable <hi>Conſpiracies and Practices.</hi>
+            </p>
+            <p>
+               <hi>2ly.</hi> Their Offences or Deſigns <hi>(viz.) That horrible Attempt to blow up with Gun-Powder the King, Queen, Prince, Lords and Commons in Parliament. And this to advance their Religion, and to Subvert Church and State.</hi>
+            </p>
+            <p>And ſo throughout the whole Statute, the Perſons enjoyned to take the Sa<g ref="char:EOLhyphen"/>crament, to be preſented by Conſtables, and ſuch like, are <hi>Papiſts,</hi> perſons <hi>Popiſhly-affected,</hi> adhering to the <hi>Popiſh</hi> Religion and Popiſh Recuſants.</p>
+            <p>By all which we hope it clearly appears, That thoſe Statutes were intended againſt <hi>Popiſh Recuſants</hi> only, and not againſt <hi>Proteſtant Diſſenters</hi> or Recu<g ref="char:EOLhyphen"/>ſants in general, nor any other than Popiſh, and hope that the Proſecution of Proteſtant Diſſenters (as they have been of late) is and now at preſent are, an ex<g ref="char:EOLhyphen"/>tending the ſenſe of thoſe Statutes beyond Right Reaſon, and the intent of the <hi>Law-makers.</hi>—All which is ſubmitted to the <hi>Judgment</hi> of the <hi>Parliament Aſſembled,</hi> to <hi>Conſider</hi> and <hi>Redreſs,</hi> as they in <hi>Wiſdom</hi> ſhall ſee meet.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration_against_the_Catholic_Church">
+                        <head>And this following Declaration is humbly offered as a Teſt to diſtinguiſh between PROTESTANTS and PAPISTS.</head>
+                        <p>
+                           <hi>I A. B.</hi> Do Solemnly and in good Conſcience Profeſs, Teſtify, and Declare, that I do not believe that the Church of <hi>Rome,</hi> or <hi>Papal Church,</hi> is the true Church, out of which there is no Salvation; or that the <hi>Pope or Biſhop of Rome is Chriſt's Vicar,</hi> or head of the true <hi>Catholick Church</hi> on Earth; or that either he or the See of <hi>Rome,</hi> hath any Authority Derived from Chriſt or his Apoſtles, to be head of the true <hi>Catholick Church.</hi> Or that the <hi>Pope</hi> or the See of <hi>Rome</hi> joyntly or ſeverally hath any Juriſdiction or Supremacy over the ſaid <hi>Catholick Church</hi> in general, or my ſelf in particular; or that the <hi>Pope</hi> hath any Power to depoſe Princes, or to abſolve Subjects of their Allegiance, on any account whatſoever; or that it belongeth to the <hi>Pope</hi> or Authority of the Church or See of <hi>Rome,</hi> to be ſole Judge of Spiritual matters, or of the ſence of Holy Scriptures; or that the <hi>Pope</hi> or his Clergy hath power to Pardon Sins, paſt, preſent, or to come, or to grant or give Indulgences for Sin of any kind ſoever; or that their Doctrine
+<pb n="6" facs="tcp:34517:5"/>of Purgatory, or Prayer to or for the Dead, is according to the Doctrine of the Holy Scriptures; or the Virgin <hi>Mary,</hi> or any other Saint or Angels ought to be Worſhipped or prayed unto, or are Mediators between God and Man; there being no Mediator but <hi>Chriſt Jeſus</hi> only. Or that the Elements of Bread and Wine, at or after the Prieſt hath pro<g ref="char:EOLhyphen"/>nounced his Words of Conſecration, are Tranſubſtantiated, or the whole or any part of the ſubſtance of the Bread or Wine, is at all changed into the Fleſh or Blood of <hi>Chriſt,</hi> or that the Sacrifice of the <hi>Maſs</hi> as it is now ſaid to be uſed in the Church of <hi>Rome,</hi> is other then Superſtitious and Idolatrous.</p>
+                        <p>And I do ſolemnly in the Preſence of God, Profeſs and Declare, that I do make this Declaration, and every part thereof, in the plain and ordinary ſence of the Word read unto me; As they are commonly understood by <hi>Engliſh Proteſtants,</hi> without any Evaſion, Equivocation, or Mental Reſervation whatſoever; And without any Diſpenſation al<g ref="char:EOLhyphen"/>ready granted me for this purpoſe by the <hi>Pope,</hi> or any other Authority, or Perſon whatſoever, and without any hope of any ſuch Diſpenſation, from any Perſon or Authority whatſoever, or without thinking that I am or can be acquitted before God or Man, or Abſolved of this Declaration, or any part thereof; Although the <hi>Pope,</hi> or any other Perſon or Perſons, or Power whatſoever, ſhould diſpence with <hi>or pretend</hi> to annul the ſame or declare that it was null and void from the beginning.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
